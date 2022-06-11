@@ -3,7 +3,7 @@
 The purpose of this project was to learn to use Python for API calls and advanced data wrangling through a series of tasks and a feature presentation about the final task. 
 
 I learned to leverage the [Transit For London](https://api-portal.tfl.gov.uk) API for gathering and utilizing various types of data available to the public. I wanted to highlight how the API could be used for creating value-added informational messages to clients of a hotel 
-(see slides and below for more details).
+(see [slides](https://github.com/rj-pal/London-transit-api/blob/main/presentation_slides.pdf) and below for more details).
 
 There are two notebooks:
 1. london_api_project.ipynb 
